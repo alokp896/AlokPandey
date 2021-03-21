@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <title>Orbit - Bootstrap 4 Resume/CV Template for Developers</title>
